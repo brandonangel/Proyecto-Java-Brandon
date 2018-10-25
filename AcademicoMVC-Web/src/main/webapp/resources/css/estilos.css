@@ -1,0 +1,32 @@
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #6666FF;
+    
+}
+.sidebar-menu, .main-sidebar .user-panel, .sidebar-menu>li.header {
+    white-space: nowrap;
+    overflow: hidden;
+    background-color: #FF8000;
+}
+.skin-blue .sidebar-menu>li.header {
+    color: #ffffff;
+    background: #FF8000;
+}
+.skin-blue .sidebar-menu>li:hover>a, .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li.menu-open>a {
+    color: black;
+    background: #ffffff;
+}
+.skin-blue .sidebar-menu>li>.treeview-menu {
+    margin: 0 1px;
+    color: black;
+    background-color: white
+}
+.treeview-menu>li>a>.fa, .treeview-menu>li>a>.glyphicon, .treeview-menu>li>a>.ion {
+    width: 20px;
+    color: black;
+}
+.skin-blue .sidebar-menu .treeview-menu>li.active>a, .skin-blue .sidebar-menu .treeview-menu>li>a:hover {
+    color: black;
+}
+.skin-blue .sidebar-menu .treeview-menu>li>a {
+    color: #8aa4af;
+}
